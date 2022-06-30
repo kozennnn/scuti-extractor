@@ -1,0 +1,22 @@
+{
+  "name": "scuti-extractor",
+  "version": "1.0.0",
+  "description": "An extractor for Habbo SWF in order to make them compatible with scuti-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozennnn/scuti-extractor.git"
+  },
+  "keywords": [
+    "SWF"
+  ],
+  "author": "Kozen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kozennnn/scuti-extractor/issues"
+  },
+  "homepage": "https://github.com/kozennnn/scuti-extractor#readme"
+}
